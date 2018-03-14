@@ -12,7 +12,7 @@
 + Supports redis block command, eg:blpop, brpop, brpoplpush.
 + Supports scan command, even multi redis instances.
 + Multi-keys command support: mset/msetnx/mget/del/unlink/touch/exists.
-+ Multi-databases support, means redis command select is avaliable.
++ Multi-databases support, means redis command select is available.
 + Supports redis transaction, limit in Redis Sentinel single redis group.
 + Supports redis Scripts, script load, eval, evalsha.
 + Supports redis Pub/Sub.
